@@ -8,7 +8,7 @@ Java 17, Spring Boot 3.3, Spring Data JPA, MySQL (ou H2), Postman.
 ## Como executar
 1. Crie o banco ou deixe o `createDatabaseIfNotExist` cuidar disso.
 2. Ajuste usuário e senha em `src/main/resources/application.properties`.
-3. Rode `mvn spring-boot:run`. A API sobe em `http://localhost:8080`.
+3. Rode `mvn spring-boot:run`. A API sobe em `http://localhost:8081`.
 
 ## Endpoints
 | Método | Endpoint | Descrição |
